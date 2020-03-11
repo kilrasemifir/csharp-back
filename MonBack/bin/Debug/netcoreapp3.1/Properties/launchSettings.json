@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ﻿{
   "iisSettings": {
     "windowsAuthentication": false, 
@@ -6,15 +5,6 @@
     "iisExpress": {
       "applicationUrl": "http://localhost:57070",
       "sslPort": 44339
-=======
-{
-  "iisSettings": {
-    "windowsAuthentication": false,
-    "anonymousAuthentication": true,
-    "iisExpress": {
-      "applicationUrl": "http://localhost:50465/",
-      "sslPort": 44321
->>>>>>> Stashed changes
     }
   },
   "profiles": {
@@ -28,7 +18,6 @@
     "MonBack": {
       "commandName": "Project",
       "launchBrowser": true,
-<<<<<<< Updated upstream
       "applicationUrl": "https://localhost:5001;http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
@@ -36,12 +25,3 @@
     }
   }
 }
-=======
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      },
-      "applicationUrl": "https://localhost:5001;http://localhost:5000"
-    }
-  }
-}
->>>>>>> Stashed changes
